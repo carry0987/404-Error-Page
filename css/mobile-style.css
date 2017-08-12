@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* Mobile view */
+@media screen and (min-width: 250px) and (max-width: 767px) {
+
+.main>.title {
+    font-size: 3em;
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+}
+
+.main>.content {
+    font-size: 5em;
+    font-weight: 400;
+    color: #000;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+}
